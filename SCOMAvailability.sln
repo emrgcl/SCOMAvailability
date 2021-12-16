@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SCOMAvailability", "SCOMAvailability\SCOMAvailability.rptproj", "{BBBEA093-C881-481C-9258-966DBE6DE69E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBBEA093-C881-481C-9258-966DBE6DE69E}.Debug|Default.ActiveCfg = Debug
+		{BBBEA093-C881-481C-9258-966DBE6DE69E}.Debug|Default.Build.0 = Debug
+		{BBBEA093-C881-481C-9258-966DBE6DE69E}.Debug|Default.Deploy.0 = Debug
+		{BBBEA093-C881-481C-9258-966DBE6DE69E}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{BBBEA093-C881-481C-9258-966DBE6DE69E}.DebugLocal|Default.Build.0 = DebugLocal
+		{BBBEA093-C881-481C-9258-966DBE6DE69E}.Release|Default.ActiveCfg = Release
+		{BBBEA093-C881-481C-9258-966DBE6DE69E}.Release|Default.Build.0 = Release
+		{BBBEA093-C881-481C-9258-966DBE6DE69E}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3829DAA-C637-4584-AC89-CB95674FA516}
+	EndGlobalSection
+EndGlobal
